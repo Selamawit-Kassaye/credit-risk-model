@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/User/Desktop/KAIM/Week_4/credit-risk-model/notebooks/.1/mlruns/models/711438094573324429/models/m-c7b985430b95417a83f19e123cd1ae58/artifacts
+creation_timestamp: 1767050330551
+experiment_id: '711438094573324429'
+last_updated_timestamp: 1767050336223
+model_id: m-c7b985430b95417a83f19e123cd1ae58
+model_type: null
+name: model
+source_run_id: d5a257d3ad9e44afbc70a9a34acc304f
+status: 2
+status_message: null

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/User/Desktop/KAIM/Week_4/credit-risk-model/notebooks/.1/mlruns/models/711438094573324429/d5a257d3ad9e44afbc70a9a34acc304f/artifacts
+end_time: 1767050336239
+entry_point_name: ''
+experiment_id: '711438094573324429'
+lifecycle_stage: active
+run_id: d5a257d3ad9e44afbc70a9a34acc304f
+run_name: LogisticRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1767050320722
+status: 4
+tags: []
+user_id: User
