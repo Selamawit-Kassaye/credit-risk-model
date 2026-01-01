@@ -4,5 +4,15 @@ data/
 env
 Data/
 Data
+
+
+# MLflow
 mlruns/
-notebooks_old/
+notebooks/**/mlruns/
+
+# Models
+*.pkl
+*.joblib
+
+# Data
+data/
